@@ -69,6 +69,13 @@ make
 
 This will compile the project. You can then run the Social Network executable generated in the build directory.
 
+
+## Additional Notes
+
+- Adjust database paths and setup instructions based on your environment.
+- Further administrative features may require additional development based on the `admin_control.cpp` file.
+
+
 ## Contributing
 
 Contributions to the Social Network project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
@@ -81,4 +88,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Thanks to the Qt framework for providing the tools to build the GUI.
 - Thanks to all contributors.
-# Social-Network
